@@ -1,0 +1,37 @@
+h1{
+    padding: 10px;
+    text-align:center;
+}
+.RaL{
+    text-align: left;
+    font-size:1.1em;
+}
+.PlayButton{
+    display:block;
+    margin: 0 auto;
+    padding: 20px 40px; 
+    background-color:rgb(252, 251, 249); 
+    border-radius: 100px;
+    transition: background-color 0.25s;   
+}
+.PlayButton:hover{
+    background-color: rgb(217, 245, 59);
+}
+body{
+    font-family: Verdana;
+    font-size:1.2em;
+    background-color: rgb(248, 250, 119);
+}
+#box1{
+    display:block;
+    text-align: center;
+    padding:     
+}
+.buttons{
+    padding: 10px 20px;
+    transition: background-color 0.25s;
+    background-color: rgb(74, 228, 74);
+}
+.buttons:hover{
+    background-color: rgb(4, 94, 4);
+}
